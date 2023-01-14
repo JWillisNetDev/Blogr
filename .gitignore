@@ -1,0 +1,7 @@
+# Ignore IDE and User-specific settings
+.vs/
+
+# Ignore output directories
+[Bb]in/
+[Oo]bj/
+
